@@ -111,7 +111,7 @@ the *INCLUDING* filter.
 
 ::
    
-   excluding table names matching 'LocalAccount' in schema 'dbo'
+   excluding table names like 'LocalAccount' in schema 'dbo'
 
 MS SQL Schema Transformations
 -----------------------------
