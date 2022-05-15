@@ -53,7 +53,7 @@ CAST
 The cast clause allows to specify custom casting rules, either to overload
 the default casting rules or to amend them with special cases.
 
-Please refer to the MS SQL CAST clause for details.
+Please refer to the MY SQL CAST clause for details.
 
 MS SQL Views Support
 --------------------
