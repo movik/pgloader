@@ -167,7 +167,7 @@ MS SQL Driver setup and encoding
 
 pgloader is using the `FreeTDS` driver, and internally expects the data to
 be sent in utf-8. To achieve that, you can configure the FreeTDS driver with
-those defaults, in the file `~/.freetds.conf`::
+those defaults, in the file `etc/freetds/freetds.conf`::
 
     [global]
         tds version = 7.4
